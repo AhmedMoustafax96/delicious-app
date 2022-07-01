@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/delicious-app/static/css/main.3254924b.css",
+    "main.js": "/delicious-app/static/js/main.9bea444f.js",
+    "static/media/pexels-la-miko-3616764.jpg": "/delicious-app/static/media/pexels-la-miko-3616764.ea077fe3197de673a657.jpg",
+    "index.html": "/delicious-app/index.html",
+    "main.3254924b.css.map": "/delicious-app/static/css/main.3254924b.css.map",
+    "main.9bea444f.js.map": "/delicious-app/static/js/main.9bea444f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3254924b.css",
+    "static/js/main.9bea444f.js"
+  ]
+}
